@@ -83,3 +83,4 @@ Cuối cùng là tạo danh sách các post dưới dạng List View.<br/>
 <img src="./images/demo.jpg" alt="demoListView" height="600"/>
 
 Chi tiết xem tại __https://docs.flutter.dev/__
+## Author: Vu Xuan Huy
